@@ -1,2 +1,3 @@
 # hello-world
-hello my favourites i am yoour shellybee
+hello its me shellybee
+we work in computerscience about this topic
